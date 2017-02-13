@@ -2,7 +2,13 @@
 Do you have thousands of unidentified songs, all named consecutively Track 1 <br> This application will help you to finally identify those songs with a simple drag and drop.
 
 ## Description
-Shazam is an app that lets you identify music. My idea is to leverage what this already does well, and turn it into a media player that would identify songs and rename them accordingly. I've searched for 2 years on and off for an application that was able to do this. Absolutely nothing. Even Quora couldn't help me. So I want to be the first one to make it available to people. In my experience, dealing with renaming songs can be cumbersome. Wouldn't it be nice if there was a desktop media player that, when loaded an unidentified song, would immediately tell you what it is and allow you to rename the song and the file? I've already done some research and there are some APIs that are available to do the task of identifying songs. In fact the service I found is used by YouTube to identify songs in videos. Rebuttal: iTunes can identify tracks from CDs already. This is true. But can it identify songs that were ripped directly off of an iPod? "MFDZ.mp3" isn't very useful to me. But if an application could identify hundreds of these that I've collected. THAT would be useful.
+Shazam is an app that lets you identify music. Leveraging what this already does well, create a media player that would identify songs and rename them accordingly. Wouldn't it be nice if there was a desktop media player that, when loaded an unidentified song, would immediately tell what it is and then rename the song and the file? There are some APIs that are available to do the task of identifying songs. In fact the service found is also used by YouTube to identify songs in videos. 
+
+Rebuttal: iTunes can identify tracks from CDs already. This is true. But can it identify songs that were ripped directly off of an iPod? "MFDZ.mp3" isn't very useful. But if an application could identify hundreds of these;   THAT would be useful.
+
+### TLDR 
+Shazam but for your desktop and it renames files
+
 
 ## Tech Stack
 QT, C#, Python, C++
