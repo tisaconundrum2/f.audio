@@ -15,19 +15,19 @@ QT, C#, Python, C++
 
 ## API's and Documentation
 
-http://the.echonest.com/solutions/
-http://the.echonest.com/solutions/musicdata/.
-https://www.qt.io/developers/
-https://doc.qt.io/archives/qtextended4.4/simpleplayer.html
-https://www.youtube.com/watch?v=ZoFm_Mznq1M
-http://doc.qt.io/qt-5/qtwinextras-musicplayer-example.html
-http://doc.qt.io/qt-4.8/qt-phonon-qmusicplayer-example.html
-
+http://the.echonest.com/solutions/<br>
+http://the.echonest.com/solutions/musicdata/<br>
+https://www.qt.io/developers/<br>
+https://doc.qt.io/archives/qtextended4.4/simpleplayer.html<br>
+https://www.youtube.com/watch?v=ZoFm_Mznq1M<br>
+http://doc.qt.io/qt-5/qtwinextras-musicplayer-example.html<br>
+http://doc.qt.io/qt-4.8/qt-phonon-qmusicplayer-example.html<br>
+<br>
 Some inside inforatmion how the Neural Network works for shazam<br>
-http://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf
-
-https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition
-https://www.acrcloud.com/
-https://www.acrcloud.com/docs/
-https://github.com/acrcloud
-https://console.acrcloud.com/signup
+http://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf<br>
+<br>
+https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition<br>
+https://www.acrcloud.com/<br>
+https://www.acrcloud.com/docs/<br>
+https://github.com/acrcloud<br>
+https://console.acrcloud.com/signup<br>
